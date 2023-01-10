@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "333691136473",
+    "project_id": "project-uas-pab-e440f",
+    "storage_bucket": "project-uas-pab-e440f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333691136473:android:5365707f3ccf9da48bd1c8",
+        "android_client_info": {
+          "package_name": "com.if5b.projectuaspab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333691136473-on2i2fo6onnhpbiht8530785vmtgp2nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.if5b.projectuaspab",
+            "certificate_hash": "ff16709f4d063620b6ed44a13b208b9b228ad1d2"
+          }
+        },
+        {
+          "client_id": "333691136473-tr4ukp983rqgnh36pjschcn45jsvs3oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy4vC4WuCY9VKMIZmWVKsNIpIb2emdgC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333691136473-tr4ukp983rqgnh36pjschcn45jsvs3oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
